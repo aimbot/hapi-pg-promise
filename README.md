@@ -1,3 +1,3 @@
-# hapi-postgres
+# hapi-pg-promise
 
-Simpler thingy.
+Hapi plugin for pg-promise, just passes the expected config of pg-promise through the hapi plugin.
