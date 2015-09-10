@@ -1,0 +1,32 @@
+{
+  "name": "hapi-pg-promise",
+  "version": "0.0.1",
+  "description": "Wrapper for node-pg-promise",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimbot/hapi-pg-promise.git"
+  },
+  "author": "Shawn Turner <shawn@nvrfail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hapi": "^8.0.0"
+  },
+  "dependencies": {
+    "pg-promise": "^1.9.9"
+  },
+  "bugs": {
+    "url": "https://github.com/aimbot/hapi-pg-promise/issues"
+  },
+  "homepage": "https://github.com/aimbot/hapi-pg-promise#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "pg-promise",
+    "postgresql",
+    "node",
+    "promise"
+  ]
+}

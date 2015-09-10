@@ -1,0 +1,3 @@
+# hapi-postgres
+
+Simpler thingy.
